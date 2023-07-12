@@ -23,3 +23,4 @@ class med2arrays:
 if __name__ == "__main__":
     obj = med2arrays()
     print(obj.findMedianSortedArrays([1,3], [2]))
+    print("hi")
